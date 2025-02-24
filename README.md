@@ -1,2 +1,2 @@
 # woodworking
- a minecraft datapack
+Enables the player to craft chests, slabs, pressure plates, doors, trapdoorsand sticks form logs
